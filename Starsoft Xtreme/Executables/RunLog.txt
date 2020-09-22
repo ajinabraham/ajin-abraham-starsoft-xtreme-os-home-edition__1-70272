@@ -1,0 +1,184 @@
+2/25/2008 12:06:31 PM No input parms found.  Run mode: Manual.
+2/25/2008 12:06:32 PM Exiting
+2/25/2008 12:06:32 PM -------
+2/25/2008 12:06:34 PM No input parms found.  Run mode: Manual.
+2/25/2008 12:06:39 PM Starting.
+2/25/2008 12:06:39 PM Updates only run.  Copying all files after 01/01/1900 00:00:01 AM
+2/25/2008 12:06:39 PM Copying from G:\vbsource\Os\Xtreme Source\exe
+2/25/2008 12:06:39 PM Copying to   g:\Backup\vbsource\Os\Xtreme Source\exe
+2/25/2008 12:06:40 PM Found 167 files in selected path.
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\WhyRaw.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\FileTree.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Replace.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\PasteSpecial.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\GetRemote.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\AutoLink.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\EditText.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Main.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\CpyRight.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\AppInfo.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\FileList.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Features.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\WhatsNew.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\StyleTip.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Find.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\FindFile.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\OcxJava.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Macros.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Definition.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Backups.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\WebEdit.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\ViewPage.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Property.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\FileInfo.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\Credits.rtf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Help\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\sir.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\index.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\photos.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\boywriting.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Personal Web\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\index.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\files.inf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\products.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\contact.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\style.css to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\staff.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\backgrnd.jpg to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\blankstar.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\email_p.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\envelope2.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\exclamation.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\fav.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\free.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\funtools-animation-small.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\gobutton.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\new2.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\newspaper.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\questionmark.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\survey_no.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\survey_yes.gif to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\faq.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Corporate Website\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\One-page web\index.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\One-page web\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\(No Template)\files.inf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\(No Template)\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Left Content.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\FAQ answers.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Feedback Confirmation.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Table of Contents.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Bibliography.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\One Column Body with SideBar.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\One Column Body.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Right Content.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\JavaScript file.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\StyleSheet.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Three Column Body.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Two Column Body.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\Wide Body.htm to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Templates\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\WonderHTML.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\whtml.tip to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\tmpcss.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\settings.ini to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Print.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\Invalid.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\HTMLTest.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\FontTest.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\editors.inf to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\DateTest.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\cssview.html to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\wonder.fon to g:\Backup\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Wonder HTML\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Logs\1_1_2008.txt to g:\Backup\vbsource\Os\Xtreme Source\exe\Logs\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Logs\1_19_2008.txt to g:\Backup\vbsource\Os\Xtreme Source\exe\Logs\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Logs\2_10_2008.txt to g:\Backup\vbsource\Os\Xtreme Source\exe\Logs\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola2.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola3.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola2m.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\copa240.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\torus400.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\copa180.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Planets.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Cube6x6_1.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola4.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola320_1.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\torus320_1.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola314_1.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\bola314_2.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\ADNp.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Botellap.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Cil320p.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Cil320cp.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Misaturnp.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\twoTorusp.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Benny.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\BolaF1.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\BolaF2.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\TorusF1.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\Botellap2.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\copa180dos.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\ADNpdos.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Meshes\cubewire.dVB to g:\Backup\vbsource\Os\Xtreme Source\exe\Meshes\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Language\English.lng to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Language\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Language\OneNote Table Of Contents.onetoc2 to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Language\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\Buttons.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\ButtonsMini.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curAlbums.CUR to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curButtons.cur to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curFind.cur to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curListaRep.cur to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curMain.cur to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curSliderRep.cur to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\curSliderVol.cur to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\Main.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\Menu.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\mini.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\Skin.ini to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\SliderRep.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\Sliders.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\sliderVol.bmp to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\Thumbs.db to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\OneNote Table Of Contents.onetoc2 to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\Mago de Oz\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\OneNote Table Of Contents.onetoc2 to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\Skins\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\MMp3Player\OneNote Table Of Contents.onetoc2 to g:\Backup\vbsource\Os\Xtreme Source\exe\MMp3Player\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Playlists\.m3u to g:\Backup\vbsource\Os\Xtreme Source\exe\Playlists\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Playlists\ajin.m3u to g:\Backup\vbsource\Os\Xtreme Source\exe\Playlists\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Playlists\tera yakeen.m3u to g:\Backup\vbsource\Os\Xtreme Source\exe\Playlists\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\3D Motion + Morphing.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\a43.dat to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\unrar.dll to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Html Song Attacher.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\a43.ini to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\SX Xplorer.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Advanced Paint.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Word Processor.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\SX Xplorer.ini to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\temp.$$$ to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Thunder MP3.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Calculator.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Data.dat to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Smackt.wav to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Misst.wav to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\SX Xplorert.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\AntiVirus.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\signatures.db to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Digital Book.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Coloroids 2.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Naval Battle.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\FRM File Extension Searcher.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Thunder MP3.exe.manifest to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme  Web Editor.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme IExplorer.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme MP3 Player.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\CD tray opener and closer.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Sheduler.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\RunLog.txt to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\tempfile.html to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\tempfile.xml to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Easy Brander.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Starsoft Xtreme Thunder MP3.ini to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:40 PM Copying G:\vbsource\Os\Xtreme Source\exe\Folder Security.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:41 PM Copying G:\vbsource\Os\Xtreme Source\exe\SX Backup.exe to g:\Backup\vbsource\Os\Xtreme Source\exe\
+2/25/2008 12:06:41 PM Backup complete.
+2/25/2008 12:06:41 PM 167 of 167 files copied to target.
+2/25/2008 12:06:42 PM Exiting
+2/25/2008 12:06:42 PM -------
+2/26/2008 10:22:02 AM Input parms to program: C:\SX Backup.exe
+2/26/2008 10:22:02 AM No input parms found.  Run mode: Manual.
+2/26/2008 10:22:04 AM Exiting
+2/26/2008 10:22:04 AM -------
